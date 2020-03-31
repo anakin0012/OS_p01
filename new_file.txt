@@ -2,3 +2,4 @@ text
 new text
 new new text
 new new new text
+rebase test                  
